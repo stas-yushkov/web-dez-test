@@ -14,7 +14,7 @@
   },
   "keywords": [],
   "author": "Stas Yushkov <stas.yushkov@gmail.com>",
-  "license": "",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/stas-yushkov/web-dez-test/issues"
   },
@@ -24,5 +24,8 @@
     "parcel-plugin-nuke-dist": "^1.0.1",
     "posthtml-include": "^1.6.2",
     "sass": "^1.32.8"
+  },
+  "dependencies": {
+    "modern-normalize": "^1.1.0"
   }
 }
