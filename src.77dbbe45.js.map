@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":[],"mappings":";;;;;AACA,aADA,QAAA,yDACA,QAAA","file":"src.77dbbe45.js","sourceRoot":"../src","sourcesContent":["import '../node_modules/modern-normalize/modern-normalize.css';\nimport './sass/main.scss';\n\n// https://www.figma.com/file/oBwNdA0QCSTNdPEB4frMP8/Web-designer-portfolio-(Copy)-(Copy)?node-id=3130%3A18\n"]}
